@@ -1,0 +1,9 @@
+/home/dad/workspace/testcoverage/calculation/bin/Debug/netstandard2.0/calculation.deps.json
+/home/dad/workspace/testcoverage/calculation/bin/Debug/netstandard2.0/calculation.dll
+/home/dad/workspace/testcoverage/calculation/bin/Debug/netstandard2.0/calculation.pdb
+/home/dad/workspace/testcoverage/calculation/obj/Debug/netstandard2.0/calculation.csprojAssemblyReference.cache
+/home/dad/workspace/testcoverage/calculation/obj/Debug/netstandard2.0/calculation.csproj.CoreCompileInputs.cache
+/home/dad/workspace/testcoverage/calculation/obj/Debug/netstandard2.0/calculation.AssemblyInfoInputs.cache
+/home/dad/workspace/testcoverage/calculation/obj/Debug/netstandard2.0/calculation.AssemblyInfo.cs
+/home/dad/workspace/testcoverage/calculation/obj/Debug/netstandard2.0/calculation.dll
+/home/dad/workspace/testcoverage/calculation/obj/Debug/netstandard2.0/calculation.pdb

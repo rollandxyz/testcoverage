@@ -1,0 +1,17 @@
+/home/dad/workspace/testcoverage/calculation.tests/obj/Debug/netcoreapp2.1/calculation.tests.csprojAssemblyReference.cache
+/home/dad/workspace/testcoverage/calculation.tests/obj/Debug/netcoreapp2.1/calculation.tests.csproj.CoreCompileInputs.cache
+/home/dad/workspace/testcoverage/calculation.tests/obj/Debug/netcoreapp2.1/calculation.tests.AssemblyInfoInputs.cache
+/home/dad/workspace/testcoverage/calculation.tests/obj/Debug/netcoreapp2.1/calculation.tests.AssemblyInfo.cs
+/home/dad/workspace/testcoverage/calculation.tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/dad/workspace/testcoverage/calculation.tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/dad/workspace/testcoverage/calculation.tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/dad/workspace/testcoverage/calculation.tests/bin/Debug/netcoreapp2.1/calculation.tests.deps.json
+/home/dad/workspace/testcoverage/calculation.tests/bin/Debug/netcoreapp2.1/calculation.tests.runtimeconfig.json
+/home/dad/workspace/testcoverage/calculation.tests/bin/Debug/netcoreapp2.1/calculation.tests.runtimeconfig.dev.json
+/home/dad/workspace/testcoverage/calculation.tests/bin/Debug/netcoreapp2.1/calculation.tests.dll
+/home/dad/workspace/testcoverage/calculation.tests/bin/Debug/netcoreapp2.1/calculation.tests.pdb
+/home/dad/workspace/testcoverage/calculation.tests/bin/Debug/netcoreapp2.1/calculation.dll
+/home/dad/workspace/testcoverage/calculation.tests/bin/Debug/netcoreapp2.1/calculation.pdb
+/home/dad/workspace/testcoverage/calculation.tests/obj/Debug/netcoreapp2.1/calculation.tests.csproj.CopyComplete
+/home/dad/workspace/testcoverage/calculation.tests/obj/Debug/netcoreapp2.1/calculation.tests.dll
+/home/dad/workspace/testcoverage/calculation.tests/obj/Debug/netcoreapp2.1/calculation.tests.pdb
